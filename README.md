@@ -1,8 +1,8 @@
 ## <h1> Yogita Thakre </h1> 
-<h2> About me: </h2>
-
+<h2>💫 About me: </h2>
+🚀 Welcome to my digital playground✨
  Hey there! I'm Yogita Thakre, a tech enthusiast on an eternal quest to transform line of code into masterpiece. 
- <h1> Socials: </h1>> 
+ <h1> 🌐Socials: </h1>> 
 <a href="https://www.linkedin.com/in/yogita-thakre-221676308" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"></a>
 <a href="mailto:yogita9669thakre@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"></a>
 
